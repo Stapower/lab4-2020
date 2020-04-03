@@ -9,4 +9,10 @@ export class AppComponent {
   title = 'primeraClase';
   name: string;
   usuario = {email: '', password: ''};
+
+
+public ingresar(){}
+
 }
+
+
